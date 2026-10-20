@@ -1,2 +1,2 @@
-Hello Git 원격 develop
-원격 develop
+Hello Git 로컬 develop
+로컬 develop
